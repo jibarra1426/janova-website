@@ -1,0 +1,1 @@
+<h2>Quiénes somos</h2><p>JANova es una empresa dedicada a...</p>
